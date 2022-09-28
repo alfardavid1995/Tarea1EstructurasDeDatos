@@ -9,7 +9,7 @@ public class Calcular {
         return result;
     }
     
-    
+//Metodo
     public double factorial(int num){
         double result = 1;
         for(int i=1; i<=num; i++){
